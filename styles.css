@@ -7,3 +7,8 @@
 body {
     background-color: bisque;
 }
+
+.footer {
+    background-color: blue;
+    color: #fff;
+}
